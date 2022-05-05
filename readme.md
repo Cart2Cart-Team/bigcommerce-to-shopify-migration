@@ -1,6 +1,6 @@
 # BigCommerce to Shopify
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [BigCommerce to Shopify](https://www.shopping-cart-migration.com/shopping-cart-migration-options/2765-bigcommerce-to-shopify-migration) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current BigCommerce store. Thus, you’ll be able to move your BigCommerce store entities, including products, orders, customers, etc. to Shopify in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [BigCommerce to Shopify](https://www.shopping-cart-migration.com/shopping-cart-migration-options/2765-bigcommerce-to-shopify-migration?utm_source=github-articles&utm_medium=articles&utm_term=bigcommerce-shopify&utm_campaign=github.com) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current BigCommerce store. Thus, you’ll be able to move your BigCommerce store entities, including products, orders, customers, etc. to Shopify in a totally automated way.
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from BigCommerce to Shopify:
 * **_Products_** (Name, SKU, Full Description, Images in Description, Status, Manufacturer, Price, Special Price, URL, Meta Title, Meta Description, Weight, Variants, Base Image, Additional Images, Quantity, UPC);
@@ -12,7 +12,7 @@ Cart2Cart will assist you in moving the following data entities from BigCommerce
 * **_Reviews_** (Created Date, Rate, User Name, Comment, Product, Title);
 * **_Blog Posts_** (Title, Full Description, Short Description, Tags, SEO URL, Author, Post Redirects, Images).
  
-To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/2765-bigcommerce-to-shopify-migration).
+To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/2765-bigcommerce-to-shopify-migration?utm_source=github-articles&utm_medium=articles&utm_term=bigcommerce-shopify&utm_campaign=github.com).
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
 * _Clear current data on Target Store before Migration,_
@@ -28,8 +28,10 @@ Users have the ability to choose some of the extra migration options to make the
 * **Choose data entities & extra migration options.** Select some of the data types or move all the store’s data to the desired platform. Also, take advantage of the additional migration options to ease the switching process.
 * **Start Free Demo** to see how your BigCommerce store will look on the Shopify platform. You can move a limited number of data entities just within 30 minutes.  
 * **Launch the Full migration** of your store from BigCommerce to Shopify.
+
+Watch our [video tutorial](https://www.youtube.com/watch?v=xwRpjBUSC4o&t=7s?utm_source=github-articles&utm_medium=articles&utm_term=bigcommerce-shopify&utm_campaign=github.com) to see how easy it is to automatically migrate from BigCommerce to Shopify with the help of the Cart2Cart migration tool.
  
-Check the detailed [guide on BigCommerce to Shopify migration](https://www.shopping-cart-migration.com/migration-guides/12389-how-to-migrate-from-bigcommerce-to-shopify). 
+Check the detailed [guide on BigCommerce to Shopify migration](https://www.shopping-cart-migration.com/migration-guides/12389-how-to-migrate-from-bigcommerce-to-shopify?utm_source=github-articles&utm_medium=articles&utm_term=bigcommerce-shopify&utm_campaign=github.com). 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
 * **No store’s downtime.** Your BigCommerce store will remain active during the replatforming process.
@@ -37,4 +39,4 @@ Check the detailed [guide on BigCommerce to Shopify migration](https://www.shopp
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to Shopify and the additional options you select.   
 * **Free demo available.** Move a limited number of data from BigCommerce to Shopify just within 30 minutes. No risk involved, no credit card required. 
-* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/22-shopify)** that provides customers with the answers to the most common questions concerning Shopify migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/22-shopify?utm_source=github-articles&utm_medium=articles&utm_term=bigcommerce-shopify&utm_campaign=github.com)** that provides customers with the answers to the most common questions concerning Shopify migration.
